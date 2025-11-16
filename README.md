@@ -1,8 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Z6kJv9G.png" width="100%" alt="Faraz Banner">
-</p>
-
 <h1 align="center">Hi there, I'm Faraz 👋</h1>
 <h3 align="center">Cyber Security | IT Support | Blockchain | Data Analysis</h3>
 
