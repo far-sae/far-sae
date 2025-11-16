@@ -90,9 +90,14 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4A4A55?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
+ 
 ## ⛓️ Blockchain Development  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Stablecoins](https://img.shields.io/badge/Stablecoins-0052FF?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC20](https://img.shields.io/badge/ERC20_Tokens-26A69A?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC721](https://img.shields.io/badge/ERC721_NFTs-9C27B0?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC1155](https://img.shields.io/badge/ERC1155_Multi_Token-673AB7?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Ganache](https://img.shields.io/badge/Ganache-663300?style=for-the-badge&logo=ethereum&logoColor=white)
