@@ -148,7 +148,7 @@
 
 ---
 
-# 🎯 Goals for 2025
+# 🎯 Goals for 2026
 - Work as a **Security Analyst / Cybersecurity Engineer**  
 - Build **enterprise-grade security labs**  
 - Expand **Cyber Hub (cyber-hub.uk)** with tutorials  
