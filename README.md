@@ -14,7 +14,7 @@
 🛠 Strong foundation in **Networking, IT Support, VLANs, Cisco, Servers**  
 ⛓️ Skilled in **Blockchain Development (Solidity, Web3, Smart Contracts)**  
 📊 Experienced in **Data Analysis, ML Models & Visualization**  
-🌐 Founder of **Cyber Hub** → https://www.cyber-hub.uk  
+🌐 Co-Founder of **Securovix LTD** → https://securovix.com  
 🎥 Growing as a **Cybersecurity & Tech Content Creator**  
 🚀 Passionate about building, securing & automating systems  
 
